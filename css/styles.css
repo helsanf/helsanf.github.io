@@ -1,0 +1,59 @@
+.standings .card-image{
+    padding: 20px 10px;
+}
+
+.standings .card-image img{
+    width: 75px;
+    height: 75px;
+}
+
+.standings .position{
+    font-size: 1.5rem;
+    flex: 1;
+    color: #000;
+}
+
+.standings .team {
+    color: #000;
+    flex: 3;
+}
+
+.flex{
+    display:flex;
+}
+
+.liga .card-image{
+    padding: 10px;
+}
+
+.liga .card-image img{
+    width: 200px;
+    height: 180px;
+    margin: 0 auto;
+}
+
+
+.card-content a{
+    color:#000;
+}
+
+.favorites .card-image {
+    padding: 20px 10px;
+}
+
+.favorites .card-image{
+    max-width: 30%!important;
+}
+
+.favorites .card-content{
+    padding: 0;
+}
+
+.favorites .card-title {
+    margin-top: 20px;
+}
+
+.favorites .card-image img {
+    width: 80px;
+    height: 80px;
+}
